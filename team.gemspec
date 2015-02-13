@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = Team::VERSION
   s.authors     = ["Thiago Miranda"]
   s.email       = ["theprogramer@theprogramer.com.br"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of Team."
-  s.description = "TODO: Description of Team."
+  s.homepage    = "http://site.theprogramer.com.br"
+  s.summary     = "Summary of Team."
+  s.description = "Description of Team."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
